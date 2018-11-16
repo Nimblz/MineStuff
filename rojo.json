@@ -1,5 +1,5 @@
 {
-  "name": "CWReborn",
+  "name": "SampleProject",
   "servePort": 8000,
   "partitions": {
     "server": {
@@ -13,10 +13,6 @@
     "common": {
       "path": "src/common",
       "target": "ReplicatedStorage.common"
-    },
-    "rodux": {
-      "path": "lib/Rodux",
-      "target": "ReplicatedStorage.lib.Rodux"
-    },
+    }
   }
 }
