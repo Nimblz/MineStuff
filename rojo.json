@@ -1,0 +1,22 @@
+{
+  "name": "CWReborn",
+  "servePort": 8000,
+  "partitions": {
+    "server": {
+      "path": "src/server",
+      "target": "ServerScriptService"
+    },
+    "client": {
+      "path": "src/client",
+      "target": "StarterPlayer.StarterPlayerScripts"
+    },
+    "common": {
+      "path": "src/common",
+      "target": "ReplicatedStorage.common"
+    },
+    "rodux": {
+      "path": "lib/Rodux",
+      "target": "ReplicatedStorage.lib.Rodux"
+    },
+  }
+}
