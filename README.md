@@ -1,5 +1,5 @@
 #Rojo Sample Project
-Blank slate that you can clone and get to work on.
+Blank slate rojo project that you can clone and get to work on.
 
 #How to get started
 1. Have Rojo set up and added to your PATH. (https://github.com/LPGhatguy/rojo)
