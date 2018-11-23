@@ -1,5 +1,5 @@
 {
-  "name": "SampleProject",
+  "name": "MineStuff",
   "servePort": 8000,
   "partitions": {
     "server": {
@@ -13,6 +13,10 @@
     "common": {
       "path": "src/common",
       "target": "ReplicatedStorage.common"
+    },
+    "pizzaalpaca": {
+      "path": "modules/pizzaalpaca/lib",
+      "target": "ReplicatedStorage.lib.pizzaalpaca"
     }
   }
 }
