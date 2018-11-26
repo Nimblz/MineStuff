@@ -1,5 +1,5 @@
 # MineStuff
-MineStuff is a mining game I'm making to develop PizzaAlpaca.
+MineStuff is a mining game I'm making to develop [PizzaAlpaca](https://github.com/Nimblz/PizzaAlpaca).
 
 ## Attribution
 This project uses Quenty's luacheck-roblox luacheck config. https://github.com/Quenty/luacheck-roblox
