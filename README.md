@@ -9,3 +9,7 @@ luacheck-roblox is licensed under the MIT license https://github.com/Quenty/luac
 This project uses Quenty's Maid object. https://github.com/Quenty/NevermoreEngine/blob/version2/Modules/Events/Maid.lua
 
 Maid, and the rest of NevermoreEngine is licensed under the MIT license. https://github.com/Quenty/NevermoreEngine/blob/version2/LICENSE.md
+
+This project uses Osyris' t typechecking module. https://github.com/osyrisrblx/t
+
+t is licensed under the MIT license https://github.com/osyrisrblx/t/blob/master/LICENSE
