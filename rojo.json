@@ -17,6 +17,10 @@
     "pizzaalpaca": {
       "path": "modules/pizzaalpaca/lib",
       "target": "ReplicatedStorage.lib.pizzaalpaca"
+    },
+    "t": {
+      "path": "modules/pizzaalpaca/modules/t/lib/",
+      "target": "ReplicatedStorage.lib.t"
     }
   }
 }
