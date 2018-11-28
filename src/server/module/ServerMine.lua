@@ -4,7 +4,7 @@ local Lib = ReplicatedStorage:WaitForChild("lib")
 local PizzaAlpaca = Lib:WaitForChild("pizzaalpaca")
 
 local nTable = require(PizzaAlpaca.object.nTable)
-local Settings = require(script.Parent.GameSettings.lua)
+local Settings = require(ReplicatedStorage.common.GameSettings)
 
 local Blocks
 

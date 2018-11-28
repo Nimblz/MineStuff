@@ -1,4 +1,4 @@
-local Settings = require(script.Parent.GameSettings.lua)
+local Settings = require(script.Parent.GameSettings)
 local CHUNK_SIZE = Settings.CHUNK_SIZE
 
 local Chunk = {}
