@@ -18,6 +18,5 @@ ModuleManager:AddModuleDirectory(CommonModules)
 ModuleManager:AddModuleDirectory(SidedModules)
 
 ModuleManager:LoadAllModules()
-
 ModuleManager:InitAllModules()
 ModuleManager:StartAllModules()
